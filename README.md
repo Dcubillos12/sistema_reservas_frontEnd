@@ -33,4 +33,21 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina.
 ### Clonación del Repositorio
 1. Clona el repositorio usando el siguiente comando:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git```
+
+2. Instalación de Dependencias
+Navega al directorio del proyecto:
+    ```bash
+    cd nombre-del-repositorio ```
+
+3.Instala las dependencias:
+    ```bash
+      npm install ```  
+
+### Ejecución de la Aplicación
+4. Inicia la aplicación en modo de desarrollo
+```npm start```
+
+# Me gusto mucho contirbuir con este proyecto espero poder continuar muchas gracias 🙂
+
+
